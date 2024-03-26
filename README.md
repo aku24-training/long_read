@@ -1,2 +1,3 @@
-# long_read
-Nanopore Long Read Assembly tutorial
+# Long Read Assembly
+
+A tutorial on Nanopore long read genome assembly.
